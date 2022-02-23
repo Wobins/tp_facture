@@ -1,0 +1,19 @@
+Your bill is ready!!
+
+		name : 	jus
+		unitPrice : 	500.0
+		quantity : 	3
+		total_price : 	1500.0
+			 ******************
+		name : 	sardine
+		unitPrice : 	450.0
+		quantity : 	3
+		total_price : 	1350.0
+			 ******************
+		name : 	pain
+		unitPrice : 	150.0
+		quantity : 	3
+		total_price : 	450.0
+			 ******************
+
+You have to pay:				 3300.0FCFA
