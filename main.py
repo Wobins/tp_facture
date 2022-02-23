@@ -35,8 +35,7 @@ while response.lower() == "yes":
     buy = shopping()
     cart.append(buy)
     response = input("Do you want to proceed your shopping?\n\t Yes/No? ")
-    # if response.lower() == "no":
-    #     cart.append(buy)
+    
 
 bill = 0
 for items in cart:
